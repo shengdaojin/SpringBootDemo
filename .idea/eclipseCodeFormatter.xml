@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="selectedGlobalProfile">
+      <Settings>
+        <option name="eclipseVersion" value="ECLIPSE_44" />
+        <option name="formatOtherFileTypesWithIntelliJ" value="false" />
+        <option name="formatSeletedTextInAllFileTypes" value="false" />
+        <option name="formatter" value="ECLIPSE" />
+        <option name="id" value="1496650142295" />
+        <option name="importOrderConfigFilePath" value="$USER_HOME$/Documents/Tencent Files/1139956161/FileRecv/codetemplates.xml" />
+        <option name="importOrderFromFile" value="true" />
+        <option name="importOrdering" value="ECLIPSE_44" />
+        <option name="name" value="myCode" />
+        <option name="pathToConfigFileJava" value="$USER_HOME$/Documents/Tencent Files/1139956161/FileRecv/codetemplates.xml" />
+        <option name="useOldEclipseJavaFormatter" value="true" />
+      </Settings>
+    </option>
+  </component>
+</project>

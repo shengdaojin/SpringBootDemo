@@ -1,0 +1,17 @@
+#修改tomcat的默认的端口号，将8080改为8888
+spring:
+  profiles:
+    active: a
+  datasource:
+      driver-class-name: com.mysql.jdbc.Driver
+      url: jdbc:mysql://127.0.0.1:3306/db_person
+      username: root
+      password: 123456
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+server:
+  port: 8888

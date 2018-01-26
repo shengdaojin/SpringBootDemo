@@ -1,0 +1,5 @@
+com\test\controller\HelloController.class
+com\test\controller\PersonController.class
+com\test\service\PersonService.class
+com\test\entity\Person.class
+com\test\dao\PersonRepository.class

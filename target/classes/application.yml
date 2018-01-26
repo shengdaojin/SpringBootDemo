@@ -1,0 +1,16 @@
+#�޸�tomcat��Ĭ�ϵĶ˿ںţ���8080��Ϊ8888
+spring:
+  profiles:
+    active: a
+  datasource:
+      driver-class-name: com.mysql.jdbc.Driver
+      url: jdbc:mysql://127.0.0.1:3306/db_person
+      username: root
+      password: 123456
+
+  jpa:
+    hibernate:
+      ddl-auto: create
+    show-sql: true
+server:
+  port: 8888

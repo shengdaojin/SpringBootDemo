@@ -11,7 +11,6 @@ import javax.transaction.Transactional;
  * <pre>
  * 文件名称:  PersonService
  * 包   路   径：  com.test.service
- * 版权所有:  中国国际电子商务中心  (C) 2018
  *</pre>
  *<pre>
  * 类描述:  
